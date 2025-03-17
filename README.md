@@ -126,8 +126,3 @@ DELETE /tasks/{id}/
 ```
 GET /report/
 ```
-
-#### Export tasks to CSV
-```
-POST /api/reports/export-tasks/
-```
